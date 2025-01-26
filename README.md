@@ -57,7 +57,10 @@ A web app to explore and learn about various Pokémon, utilizing the PokéAPI.
 - [LinkedIn](https://www.linkedin.com/in/khaanasif)
 
 ---
-## Platforms 
--[Leetcode](https://leetcode.com/u/khanasifhere/)
+## 💡 Platforms 
+- [Leetcode](https://leetcode.com/u/khanasifhere/)
+- [Codechef](https://www.codechef.com/users/khanasifhere)
+- [Codeforces](https://codeforces.com/profile/asifluhar)
+- [GFG](https://www.geeksforgeeks.org/user/khanaasolf0/)
 
 Thanks for visiting my profile! Feel free to check out my repositories and reach out if you’d like to collaborate. Happy coding! 🚀
