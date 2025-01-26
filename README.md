@@ -55,9 +55,9 @@ A web app to explore and learn about various Pokémon, utilizing the PokéAPI.
 
 ## 💡 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/khaanasif)
-- [Twitter](https://twitter.com/your-handle)
-- [Portfolio](https://your-portfolio-link.com)
 
 ---
+## Platforms 
+-[Leetcode](https://leetcode.com/u/khanasifhere/)
 
 Thanks for visiting my profile! Feel free to check out my repositories and reach out if you’d like to collaborate. Happy coding! 🚀
