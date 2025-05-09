@@ -1,66 +1,64 @@
-# Hi there! 👋 Welcome to My GitHub Profile
-
-I'm **Asif Khan**, a passionate developer and tech enthusiast with a focus on creating efficient and innovative solutions. I enjoy working on projects that challenge me to learn and grow, leveraging my skills in web development, machine learning, and more.
-
----
-
-## 🚀 About Me
-- 🌱 I’m currently exploring advanced topics in **frontend development**, **DSA** and **machine learning**.
-- 💻 I love building applications that solve real-world problems.
-- 🤝 I’m open to collaborating on exciting open-source projects.
-- 📫 Reach me at: **[khanaasif1065@gmail.com](mailto:khanaasif1065@gmail.com)**
+<h1 align="center">Hi there 👋, I'm Asif Khan</h1>
+<h3 align="center">A passionate Full-Stack Developer | MERN | Problem Solver</h3>
 
 ---
 
-## 🔧 Technologies & Tools
-
-### Programming Languages
-- **Python**
-- **JavaScript (ES6+)**
-- **HTML & CSS**
-- **C/C++**
-
-### Frameworks & Libraries
-- **React.js**
-- **Node.js**
-- **Express.js**
-- **Scikit-learn**
-- **Tailwind CSS**
-
-### Tools & Platforms
-- **Git & GitHub**
-- **Docker**
-- **VS Code**
-- **Postman**
+<p align="center">
+  <a href="https://www.linkedin.com/in/khaanasif" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/khanasifhere" target="_blank">
+    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.codechef.com/users/khanasifhere" target="_blank">
+    <img alt="CodeChef" src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+  <a href="https://codeforces.com/profile/asifluhar" target="_blank">
+    <img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="mailto:khanaasif1065@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 📂 My Projects
+## 👨‍💻 About Me
 
-### [Crop Prediction ML](https://github.com/khanasifhere/crop_pred_ml)
-A machine learning model to recommend suitable crops based on environmental conditions. 
-
-### [Bookstore Frontend](https://github.com/khanasifhere/bookStore_frontend)
-An interactive and responsive frontend application for browsing and purchasing books.
-
-### [Pokémon App](https://github.com/khanasifhere/pokemon)
-A web app to explore and learn about various Pokémon, utilizing the PokéAPI.
+- 🔭 I’m currently working on full-stack web apps using the MERN stack  
+- 🌱 I’m improving my skills in backend architecture and system design  
+- 💬 Ask me about React.js, Node.js, MongoDB, and RESTful APIs  
+- 📫 Reach me at: your.email@example.com  
+- ⚡ Fun fact: I love debugging more than writing code (sometimes 😄)
 
 ---
 
-## 🌟 Stats & Contributions
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khanasifhere&show_icons=true&theme=radical)
+## 🧰 Languages & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
-## 💡 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/khaanasif)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khanasifhere&show_icons=true&theme=radical" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khanasifhere&theme=radical" width="49%" />
+</p>
 
 ---
-## 💡 Platforms 
-- [Leetcode](https://leetcode.com/u/khanasifhere/)
-- [Codechef](https://www.codechef.com/users/khanasifhere)
-- [Codeforces](https://codeforces.com/profile/asifluhar)
-- [GFG](https://www.geeksforgeeks.org/user/khanaasolf0/)
 
-Thanks for visiting my profile! Feel free to check out my repositories and reach out if you’d like to collaborate. Happy coding! 🚀
+## 🧠 Let's Connect
+
+If you like what I do or want to collaborate on a project, feel free to reach out!
+
+---
+
