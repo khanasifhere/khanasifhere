@@ -1,23 +1,25 @@
 <h1 align="center">Hi there 👋, I'm Asif Khan</h1>
 <h3 align="center">A passionate Full-Stack Developer | MERN | Problem Solver</h3>
 
----
-
 <p align="center">
   <a href="https://www.linkedin.com/in/khaanasif" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35px" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="https://leetcode.com/u/khanasifhere" target="_blank">
-    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="35px" alt="LeetCode" />
   </a>
+  &nbsp;
   <a href="https://www.codechef.com/users/khanasifhere" target="_blank">
-    <img alt="CodeChef" src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+    <img src="https://cdn.codechef.com/images/cc-logo.svg" width="35px" alt="CodeChef" />
   </a>
+  &nbsp;
   <a href="https://codeforces.com/profile/asifluhar" target="_blank">
-    <img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+    <img src="https://sta.codeforces.com/s/59505/images/codeforces-logo-with-telegram.png" width="35px" alt="Codeforces" />
   </a>
+  &nbsp;
   <a href="mailto:khanaasif1065@gmail.com" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="35px" alt="Email" />
   </a>
 </p>
 
@@ -28,7 +30,7 @@
 - 🔭 I’m currently working on full-stack web apps using the MERN stack  
 - 🌱 I’m improving my skills in backend architecture and system design  
 - 💬 Ask me about React.js, Node.js, MongoDB, and RESTful APIs  
-- 📫 Reach me at: your.email@example.com  
+- 📫 Reach me at: khanaasif1065@gmail.com  
 - ⚡ Fun fact: I love debugging more than writing code (sometimes 😄)
 
 ---
@@ -61,4 +63,3 @@
 If you like what I do or want to collaborate on a project, feel free to reach out!
 
 ---
-
