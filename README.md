@@ -27,11 +27,12 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on full-stack web apps using the MERN stack  
-- 🌱 Improving skills in backend architecture and system design  
-- 💬 Ask me about React.js, Node.js, MongoDB, and DSA  
-- 📫 Reach me at: khanaasif1065@gmail.com  
-- ⚡ Fun fact: I love debugging more than writing code 😄
+- 👨‍💻 I'm a Full-Stack Developer skilled in building scalable web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js).
+- 🧠 Strong foundation in Data Structures and Algorithms, with 500+ problems solved across LeetCode, Codeforces, and CodeChef.
+- 🚀 Passionate about solving real-world problems with clean code, RESTful APIs, and optimized backend logic.
+- 🔐 Experienced in implementing authentication, role-based access control, and secure API integrations.
+- 📫 Let's connect at: khanaasif1065@gmail.com
+
 
 ---
 
